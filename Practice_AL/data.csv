@@ -1,4 +1,4 @@
-Name,Age,
-John,25,
-Alice,30,
-Bob,35,
+Name,Age,Score
+John,25,100
+Alice,30,24
+Bob,35,50
